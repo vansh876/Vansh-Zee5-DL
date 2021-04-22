@@ -55,7 +55,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@TroJanzHEX\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@CCO_Chat_Bot\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
